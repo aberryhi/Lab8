@@ -1,6 +1,6 @@
 // script.js
 
-import { router } from './router.js';
+import { router } from '../scripts/router.js';
 
 const headerText = document.querySelector('header > h1');
 const settings = document.querySelector('header > img');
